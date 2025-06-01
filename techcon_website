@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechCon 2024</title>
+</head>
+<body>
+    <header>
+        <h1>About TechCon 2024</h1>
+        <nav>
+            <ul>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./schedule.html">Schedule</a></li>
+                <li><a href="./register.html">Register</a></li>
+                <li><a href="./contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+<main>
+    
+    <article>
+        <h2>Our History</h2>
+        <p>TechCon began in 2010 as a small meetup of developers and innovators. Over the years, it has evolved into a global platform for showcasing technology, sharing ideas, and building communities.</p>
+        <img src="images/techcon2010.jpg" alt="TechCon 2010 opening ceremony">
+        <img src="images/techcon_growth.jpg" alt="Growth of TechCon attendance over the years">
+    </article>
+   
+    <article>
+        <h2>Our Mission</h2>
+        <p>At TechCon, our mission is to drive innovation through collaboration, education, and inclusivity. We aim to empower developers, engineers, and creators to build a better tech future.</p>
+        <img src="images/mission_icon.png" alt="TechCon mission icon">
+    </article>
+
+    <article>
+        <h2>Past Speakers</h2>
+
+        <div>
+            <img src="images/speaker_ada.jpg" alt="Ada Lovelace - Pioneer in computing">
+            <h3>Ada Lovelace</h3>
+            <p>Ada Lovelace is known as the first computer programmer. Her theoretical work laid the groundwork for future generations of coders and technologists.</p>
+        </div>
+
+        <div>
+            <img src="images/speaker_turing.jpg" alt="Alan Turing - Father of modern computing">
+            <h3>Alan Turing</h3>
+            <p>Alan Turing's contributions to cryptography and artificial intelligence remain vital to modern computing. He spoke at TechCon 2015 on machine learning's theoretical foundations.</p>
+        </div>
+
+        <div>
+            <img src="images/speaker_hopper.jpg" alt="Grace Hopper - Inventor of the compiler">
+            <h3>Grace Hopper</h3>
+            <p>Known for inventing the compiler, Grace Hopper inspired generations with her vision of user-friendly programming languages. She headlined TechCon 2018.</p>
+        </div>
+    </article>
+</main>
+
+<article>
+    <h2>Our Mission</h2>
+    <p>At TechCon, our mission is to drive innovation through collaboration, education, and inclusivity. We aim to empower developers, engineers, and creators to build a better tech future.</p>
+    <img src="images/mission_icon.png" alt="TechCon mission icon">
+</article>
+
+<article>
+    <h2>Past Speakers</h2>
+
+    <div>
+        <img src="images/speaker_ada.jpg" alt="Ada Lovelace - Pioneer in computing">
+        <h3>Ada Lovelace</h3>
+        <p>Ada Lovelace is known as the first computer programmer. Her theoretical work laid the groundwork for future generations of coders and technologists.</p>
+    </div>
+
+    <div>
+        <img src="images/speaker_turing.jpg" alt="Alan Turing - Father of modern computing">
+        <h3>Alan Turing</h3>
+        <p>Alan Turing's contributions to cryptography and artificial intelligence remain vital to modern computing. He spoke at TechCon 2015 on machine learning's theoretical foundations.</p>
+    </div>
+
+    <div>
+        <img src="images/speaker_hopper.jpg" alt="Grace Hopper - Inventor of the compiler">
+        <h3>Grace Hopper</h3>
+        <p>Known for inventing the compiler, Grace Hopper inspired generations with her vision of user-friendly programming languages. She headlined TechCon 2018.</p>
+    </div>
+</article>
+</main>
